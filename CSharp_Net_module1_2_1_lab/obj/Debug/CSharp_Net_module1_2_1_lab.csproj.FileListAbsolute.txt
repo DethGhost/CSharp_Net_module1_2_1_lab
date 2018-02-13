@@ -20,3 +20,10 @@ F:\C#\(begin)CSharp_Net_module2_1_lab\CSharp_Net_module1_2_1_lab\CSharp_Net_modu
 F:\C#\(begin)CSharp_Net_module2_1_lab\CSharp_Net_module1_2_1_lab\CSharp_Net_module1_2_1_lab\bin\Debug\CSharp_Net_module1_2_1_lab.exe.config
 F:\C#\(begin)CSharp_Net_module2_1_lab\CSharp_Net_module1_2_1_lab\CSharp_Net_module1_2_1_lab\bin\Debug\CSharp_Net_module1_2_1_lab.exe
 F:\C#\(begin)CSharp_Net_module2_1_lab\CSharp_Net_module1_2_1_lab\CSharp_Net_module1_2_1_lab\bin\Debug\CSharp_Net_module1_2_1_lab.pdb
+C:\Users\m.kleuvov\RiderProjects\CSharp_Net_module1_2_1_lab\CSharp_Net_module1_2_1_lab\bin\Debug\CSharp_Net_module1_2_1_lab.exe.config
+C:\Users\m.kleuvov\RiderProjects\CSharp_Net_module1_2_1_lab\CSharp_Net_module1_2_1_lab\bin\Debug\CSharp_Net_module1_2_1_lab.exe
+C:\Users\m.kleuvov\RiderProjects\CSharp_Net_module1_2_1_lab\CSharp_Net_module1_2_1_lab\bin\Debug\CSharp_Net_module1_2_1_lab.pdb
+C:\Users\m.kleuvov\RiderProjects\CSharp_Net_module1_2_1_lab\CSharp_Net_module1_2_1_lab\obj\Debug\CSharp_Net_module1_2_1_lab.csprojResolveAssemblyReference.cache
+C:\Users\m.kleuvov\RiderProjects\CSharp_Net_module1_2_1_lab\CSharp_Net_module1_2_1_lab\obj\Debug\CSharp_Net_module1_2_1_lab.csproj.CoreCompileInputs.cache
+C:\Users\m.kleuvov\RiderProjects\CSharp_Net_module1_2_1_lab\CSharp_Net_module1_2_1_lab\obj\Debug\CSharp_Net_module1_2_1_lab.exe
+C:\Users\m.kleuvov\RiderProjects\CSharp_Net_module1_2_1_lab\CSharp_Net_module1_2_1_lab\obj\Debug\CSharp_Net_module1_2_1_lab.pdb
